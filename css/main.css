@@ -711,3 +711,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 #about img {
   padding: 20px 0;
 }
+
+#events iframe {
+  margin: 0 auto 0 auto;
+}
